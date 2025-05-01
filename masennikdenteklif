@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>massenikdenteklif</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      background-image: url('WhatsApp Görsel 2025-05-01 saat 23.51.05_ef3e0c53.jpg');
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: yellow;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      text-shadow: 1px 1px 4px black;
+    }
+    .message {
+      max-width: 600px;
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="message">
+    <p>Salam, Fərəh, necəsən?<br>
+    1-ci gün dərsdən çıxanda görüşüb, oradan da Coffeemoon’a gedib,<br>
+    İki fincan Moon Coffee içib, həftənin yorğunluğunu azaldıb, söhbət edək?<br>
+    Əgər sənə də xoş olarsa, xəbər edərsən.✒️</p>
+  </div>
+</body>
+</html>
